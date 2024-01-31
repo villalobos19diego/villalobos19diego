@@ -1,12 +1,4 @@
 
-
-    .animated-emoji {
-      display: inline-block;
-      animation: spin 2s linear infinite;
-    }
-  </style>
-</head>
-<body>
   <p>💫 PROGRAMADOR DE SOFTWARE:<br>
     Hola, soy Diego Villalobos! <span class="animated-emoji">👋</span><br>
     Soy un apasionado programador de 19 años originario de El Salvador, con una sed insaciable de aprendizaje y una mente repleta de ideas innovadoras. Todos los días, busco mejorar mis habilidades y explorar nuevas tecnologías para contribuir a proyectos emocionantes.<br><br>
