@@ -1,12 +1,33 @@
-# 💫 PROGRAMADOR DE SOFTWARE:
-Hola, soy Diego Villalobos! 👋<br>Soy un apasionado programador de 19 años originario de El Salvador, con una sed insaciable de aprendizaje y una mente repleta de ideas innovadoras. Todos los días, busco mejorar mis habilidades y explorar nuevas tecnologías para contribuir a proyectos emocionantes.<br><br>Acerca de Mí<br>🚀 Joven Desarrollador: En constante crecimiento y desarrollo, siempre ansioso por enfrentar nuevos desafíos y aprender de cada experiencia.<br><br>💡 Ideas Creativas: Mi mente está llena de ideas creativas que estoy emocionado por convertir en realidad a través de la programación.<br><br>🌍 Desde El Salvador: Orgulloso de representar a El Salvador en el mundo del desarrollo de software.
+# <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+
+    .animated-emoji {
+      display: inline-block;
+      animation: spin 2s linear infinite;
+    }
+  </style>
+</head>
+<body>
+  <p>💫 PROGRAMADOR DE SOFTWARE:<br>
+    Hola, soy Diego Villalobos! <span class="animated-emoji">👋</span><br>
+    Soy un apasionado programador de 19 años originario de El Salvador, con una sed insaciable de aprendizaje y una mente repleta de ideas innovadoras. Todos los días, busco mejorar mis habilidades y explorar nuevas tecnologías para contribuir a proyectos emocionantes.<br><br>
+    Acerca de Mí<br>
+    <span class="animated-emoji">🚀</span> Joven Desarrollador: En constante crecimiento y desarrollo, siempre ansioso por enfrentar nuevos desafíos y aprender de cada experiencia.<br><br>
+    <span class="animated-emoji">💡</span> Ideas Creativas: Mi mente está llena de ideas creativas que estoy emocionado por convertir en realidad a través de la programación.<br><br>
+    <span class="animated-emoji">🌍</span> Desde El Salvador: Orgulloso de representar a El Salvador en el mundo del desarrollo de software.
+  </p>
+</body>
+</html>
 
 ![preferido](https://github.com/villalobos19diego/villalobos19diego/assets/137085211/468bd516-40a1-4ab9-8064-a17c24bd9d41)
-
-
-
-
-
 
 
 
