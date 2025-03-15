@@ -1,7 +1,7 @@
 
   <p>💫 PROGRAMADOR DE SOFTWARE:<br>
     Hola, soy Diego Villalobos! <span class="animated-emoji">👋</span><br>
-    Soy un apasionado programador de 19 años originario de El Salvador, con una sed insaciable de aprendizaje y una mente repleta de ideas innovadoras. Todos los días, busco mejorar mis habilidades y explorar nuevas tecnologías para contribuir a proyectos emocionantes.<br><br>
+    Soy un apasionado programador de 20 años originario de El Salvador, con una sed insaciable de aprendizaje y una mente repleta de ideas innovadoras. Todos los días, busco mejorar mis habilidades y explorar nuevas tecnologías para contribuir a proyectos emocionantes.<br><br>
     Acerca de Mí<br>
     <span class="animated-emoji">🚀</span> Joven Desarrollador: En constante crecimiento y desarrollo, siempre ansioso por enfrentar nuevos desafíos y aprender de cada experiencia.<br><br>
     <span class="animated-emoji">💡</span> Ideas Creativas: Mi mente está llena de ideas creativas que estoy emocionado por convertir en realidad a través de la programación.<br><br>
